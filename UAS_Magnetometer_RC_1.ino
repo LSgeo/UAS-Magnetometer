@@ -1,7 +1,7 @@
 /*
  * Written by Luke Smith, MQU 2016, part of an MRes project with Tasman and Omar.
  * Ground or airborne magnetometer array with GPS logging. Mega 2560 based board and ebay spec GPS shield
- * Utilisies NeoGPS library, probs shouls mention GNU licence and will do in the final version.
+ * Utilisies NeoGPS library, NeoHWSerial and SdFat
  * 
  * We use NeoHWSerial as it sounds cool and is apparently quicker as it can "handle received characters with a user-defined function during the RX interrupt"
  */
